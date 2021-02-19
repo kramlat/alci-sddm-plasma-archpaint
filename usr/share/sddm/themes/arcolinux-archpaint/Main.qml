@@ -50,7 +50,7 @@ Image {
                     source = "./components/artwork/background_43.png"
                 }
             }
-            fillMode: Image.PreserveAspectFit
+            fillMode: Image.PreserveAspectCrop
             onStatusChanged: {
                 if (status == Image.Error && source != config.defaultBackground) {
                     source = config.defaultBackground
