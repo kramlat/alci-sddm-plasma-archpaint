@@ -1,0 +1,14 @@
+[SddmGreeterTheme]
+Name=ArcoLinux Archpaint
+Description=SDDM Archpaint2 Theme using breeze components
+License=CC-BY-SA
+Type=sddm-theme
+Version=0.1
+Website=https://github.com/arcolinux/arcolinux-sddm-archpaint
+Screenshot=screenshot.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Theme-Id=arcolinux-archpaint
+Theme-API=2.0
+Author=guidobelix
