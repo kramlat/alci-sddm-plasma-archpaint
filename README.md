@@ -1,1 +1,1 @@
-# ArcoLinux Sddm ArchPaint
+# ArcoLinux Sddm Plasma ArchPaint
